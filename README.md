@@ -52,3 +52,23 @@ src/        RTL source files
 test/       Simulation and verification
 docs/       Project documentation
 info.yaml   Tiny Tapeout project configuration
+
+```markdown
+## Development Workflow
+
+Development is performed using feature branches and pull requests.
+
+Changes to `main` should:
+
+1. Be developed on a separate branch.
+2. Be submitted through a pull request.
+3. Be reviewed by at least one other team member.
+4. Pass the relevant automated tests before being merged.
+
+## Documentation
+
+More detailed architecture, implementation, verification, and testing documentation will be added as the design develops.
+
+## License
+
+This project is open source under the Apache License 2.0.
