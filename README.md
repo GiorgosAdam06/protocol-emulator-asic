@@ -52,6 +52,7 @@ src/        RTL source files
 test/       Simulation and verification
 docs/       Project documentation
 info.yaml   Tiny Tapeout project configuration
+```
 
 ## Development Workflow
 
