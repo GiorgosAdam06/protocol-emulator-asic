@@ -53,7 +53,6 @@ test/       Simulation and verification
 docs/       Project documentation
 info.yaml   Tiny Tapeout project configuration
 
-```markdown
 ## Development Workflow
 
 Development is performed using feature branches and pull requests.
