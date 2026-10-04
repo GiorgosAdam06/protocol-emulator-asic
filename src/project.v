@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024 Your Name
+ * Copyright (c) 2026 Giorgos Adam, Armen Sam, Martin Aguilera, Maximillian Weinstein
  * SPDX-License-Identifier: Apache-2.0
  */
 

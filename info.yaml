@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Protocol Emulator Asic"      # Project title
+  title:        "Protocol Emulator ASIC"      # Project title
   author:       "Giorgos Adam, Armen Sam, Martin Aguilera, Maximillian Weinstein"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Programmable ASIC for emulating digital communication protocols with precise GPIO timing"      # One line description of what your project does
